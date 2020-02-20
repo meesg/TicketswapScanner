@@ -54,7 +54,7 @@ function checkForChange() {
     request(config.url, {timeout: config.timeout}, function (error, response, body) {
         if(!error && response.statusCode == 200) {
             const $ = cheerio.load(body);
-            NTickets = $(config.selector).text();
+            let NTickets = $(config.selector).text();
         
             if(NTickets > oldNTickets) {
                 let message = `${NTickets - oldNTickets} NEW TICKET(S) FOUND :.`;
