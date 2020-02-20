@@ -30,7 +30,7 @@ Made with ❤️.
 ## Todo
 
 Must have.
-- [ ] 🔑
+- [x] 🔑
 
 Should have.  
 - [ ] Make twilio optional.  
@@ -40,4 +40,4 @@ Could have.
 - [ ] Whatsapp integration.  
 
 Would have.  
-- [ ] Snapchat integration  
+- [ ] Snapchat integration.  
