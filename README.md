@@ -28,15 +28,15 @@ Made with love.
 `selector`: DOM Selector where the current number of tickets resides.
 
 ## Todo
-Must have.
-- 
+Must have.  
+-  
 
-Should have.
-- [ ] Make twilio optional.
-- [ ] Make discord optional.
+Should have.  
+- [ ] Make twilio optional.  
+- [ ] Make discord optional.  
 
-Could have.
-- [ ] Whatsapp integration.
+Could have.  
+- [ ] Whatsapp integration.  
 
-Would have.
-- [ ] Snapchat integration
+Would have.  
+- [ ] Snapchat integration  
