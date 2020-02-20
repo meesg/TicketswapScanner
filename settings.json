@@ -1,0 +1,13 @@
+{ 
+    "twilioSid": "[TWILIO SID]",
+    "twilioToken": "[TWILIO TOKEN]",
+    "twilioUrl": "[CALL HANDLER URL]",
+    "twilioTo": "[YOUR OWN NUMBER]",
+    "twilioFrom": "[TWILIO NUMBER]",
+    "discordHookId": "[DISCORD HOOK ID]",
+    "discordHookToken": "[DISCORD HOOK TOKEN]",
+    "url": "",
+    "retryDelay": 10000,
+    "timeout": 15000,
+    "selector": "#__next > div.css-17b5kfh.e1im85fx1 > p:nth-child(6)"
+}
