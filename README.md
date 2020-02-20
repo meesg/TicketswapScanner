@@ -3,7 +3,7 @@
 Checks Ticketswap for new tickets, notifies you by calling via twilio and sending a message via a discord hook.
 This way you get notified quicker than people just checking their email for notifications.  
   
-Made with love.
+Made with ❤️.
   
 ## Installation
 
