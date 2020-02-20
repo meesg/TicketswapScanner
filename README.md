@@ -24,7 +24,7 @@ Made with love.
 `discordHookToken`: The character string in your discord hook url.  
 `url`: The webpage to be monitored.  
 `retryDelay`: Delay between each request in milliseconds.  
-`timeout`: Milliseconds before each request should timeout.
+`timeout`: Milliseconds before each request should timeout.  
 `selector`: DOM Selector where the current number of tickets resides.
 
 ## Todo
